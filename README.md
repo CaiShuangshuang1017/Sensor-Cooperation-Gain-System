@@ -1,2 +1,2 @@
-# paper1
-test post code
+# Sensor Cooperation Gain System for Burst Monitoring in Water Distribution Network: Concept, Design and Evaluation
+This project contains the source code used to develop the pipe burst monitoring sensor collaboration gain system described in the paper. It includes key components such as the optimization design of the gain system, confident information coverage (CIC), minimum coverage flow (MCF), alarm probability, and uncertainty analysis of parameters. Code for generating some of the illustrative figures is located in the "Figures" folder.
